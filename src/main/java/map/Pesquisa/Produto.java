@@ -1,4 +1,4 @@
-package main.java.map;
+package main.java.map.Pesquisa;
 
 import java.util.Objects;
 
